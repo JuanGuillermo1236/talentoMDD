@@ -1,6 +1,6 @@
 # talentoMDD
 
-## 📚 Recursos útiles
+## 📚 Recursos útiles🤙🏼
 
 ### 🐙 Guía de Git y GitHub
 > Aprende los comandos esenciales, flujo de trabajo y buenas prácticas con esta guía práctica.
