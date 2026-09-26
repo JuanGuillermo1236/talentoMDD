@@ -1,0 +1,40 @@
+# =========================
+# Windows
+# =========================
+Desktop.ini
+Thumbs.db
+
+# =========================
+# Java / Maven
+# =========================
+target/
+*.class
+*.log
+
+# =========================
+# IDEs
+# =========================
+.idea/
+*.iml
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Node / Frontend
+# =========================
+node_modules/
+dist/
+build/
+
+# =========================
+# OS
+# =========================
+.DS_Store
